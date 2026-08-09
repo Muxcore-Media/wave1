@@ -13,7 +13,7 @@ env:
 
 jobs:
   lint:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, X64]
     steps:
 {{CHECKOUTS}}
       - uses: actions/setup-go@v6
@@ -27,7 +27,7 @@ jobs:
           args: --timeout 120s
 
   test:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, X64]
     steps:
 {{CHECKOUTS}}
       - uses: actions/setup-go@v6
@@ -38,7 +38,7 @@ jobs:
         run: go test -race -count=1 -timeout 60s ./...
 
   build:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, X64]
     steps:
 {{CHECKOUTS}}
       - uses: actions/setup-go@v6
@@ -55,7 +55,7 @@ jobs:
 
   docker:
     if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main')
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, X64]
     needs: [lint, test, build]
     steps:
 {{CHECKOUTS}}
