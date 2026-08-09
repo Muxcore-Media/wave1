@@ -1,0 +1,170 @@
+[
+  {
+    "number": 1,
+    "repository": {
+      "name": "media-transcoder",
+      "nameWithOwner": "Muxcore-Media/media-transcoder"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "media-subtitles",
+      "nameWithOwner": "Muxcore-Media/media-subtitles"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "media-root-folders",
+      "nameWithOwner": "Muxcore-Media/media-root-folders"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "media-rename",
+      "nameWithOwner": "Muxcore-Media/media-rename"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "media-custom-formats",
+      "nameWithOwner": "Muxcore-Media/media-custom-formats"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "media-ffprobe",
+      "nameWithOwner": "Muxcore-Media/media-ffprobe"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 11,
+    "repository": {
+      "name": "scheduler-cron",
+      "nameWithOwner": "Muxcore-Media/scheduler-cron"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 8,
+    "repository": {
+      "name": "worker-pool-memory",
+      "nameWithOwner": "Muxcore-Media/worker-pool-memory"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 14,
+    "repository": {
+      "name": "auth-local",
+      "nameWithOwner": "Muxcore-Media/auth-local"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "input-validate-jsonschema",
+      "nameWithOwner": "Muxcore-Media/input-validate-jsonschema"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "contracts-notification",
+      "nameWithOwner": "Muxcore-Media/contracts-notification"
+    },
+    "title": "fix(ci): bump actions for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "contracts-media-admin",
+      "nameWithOwner": "Muxcore-Media/contracts-media-admin"
+    },
+    "title": "fix(ci): bump actions for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "contracts-indexer",
+      "nameWithOwner": "Muxcore-Media/contracts-indexer"
+    },
+    "title": "fix(ci): bump actions for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "contracts-downloader",
+      "nameWithOwner": "Muxcore-Media/contracts-downloader"
+    },
+    "title": "fix(ci): bump actions for Go 1.26"
+  },
+  {
+    "number": 6,
+    "repository": {
+      "name": "admin-ui",
+      "nameWithOwner": "Muxcore-Media/admin-ui"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 14,
+    "repository": {
+      "name": "publish-policy-default",
+      "nameWithOwner": "Muxcore-Media/publish-policy-default"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "api-rest",
+      "nameWithOwner": "Muxcore-Media/api-rest"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "executor-shell",
+      "nameWithOwner": "Muxcore-Media/executor-shell"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 10,
+    "repository": {
+      "name": "backup-local",
+      "nameWithOwner": "Muxcore-Media/backup-local"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 14,
+    "repository": {
+      "name": "call-policy-default",
+      "nameWithOwner": "Muxcore-Media/call-policy-default"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  },
+  {
+    "number": 1,
+    "repository": {
+      "name": "auth-oidc",
+      "nameWithOwner": "Muxcore-Media/auth-oidc"
+    },
+    "title": "fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26"
+  }
+]

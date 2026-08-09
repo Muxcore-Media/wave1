@@ -1,0 +1,278 @@
+[
+  {
+    "repo": "admin-ui",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/admin-ui/pull/7",
+    "mvp": true
+  },
+  {
+    "repo": "api-rest",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/api-rest/pull/2",
+    "mvp": true
+  },
+  {
+    "repo": "auth-local",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/auth-local/pull/16",
+    "mvp": true
+  },
+  {
+    "repo": "auth-oidc",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "backup-local",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/backup-local/pull/11",
+    "mvp": false
+  },
+  {
+    "repo": "cache-local",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "cache-redis",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/cache-redis/pull/12",
+    "mvp": false
+  },
+  {
+    "repo": "call-policy-default",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "circuitbreaker-simple",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/circuitbreaker-simple/pull/2",
+    "mvp": false
+  },
+  {
+    "repo": "config-watcher",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/config-watcher/pull/3",
+    "mvp": false
+  },
+  {
+    "repo": "data-redaction-pattern",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/data-redaction-pattern/pull/2",
+    "mvp": false
+  },
+  {
+    "repo": "database-sqlite",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "distributed-lock-sqlite",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/distributed-lock-sqlite/pull/3",
+    "mvp": false
+  },
+  {
+    "repo": "downloader-native-torrent",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "encryption-aesgcm",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/encryption-aesgcm/pull/2",
+    "mvp": true
+  },
+  {
+    "repo": "executor-shell",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "feature-flags-file",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/11",
+    "mvp": false
+  },
+  {
+    "repo": "health-monitor",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "indexer-piratebay",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/indexer-piratebay/pull/3",
+    "mvp": true
+  },
+  {
+    "repo": "input-validate-jsonschema",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/input-validate-jsonschema/pull/3",
+    "mvp": false
+  },
+  {
+    "repo": "jellyfin",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/jellyfin/pull/8",
+    "mvp": true
+  },
+  {
+    "repo": "logging-file",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "media-automation",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "media-custom-formats",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/media-custom-formats/pull/2",
+    "mvp": false
+  },
+  {
+    "repo": "media-ffprobe",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/media-ffprobe/pull/3",
+    "mvp": false
+  },
+  {
+    "repo": "media-list-sync",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "media-movies",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/media-movies/pull/2",
+    "mvp": true
+  },
+  {
+    "repo": "media-rename",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "media-root-folders",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/media-root-folders/pull/2",
+    "mvp": true
+  },
+  {
+    "repo": "media-scanner",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/media-scanner/pull/14",
+    "mvp": true
+  },
+  {
+    "repo": "media-subtitles",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/media-subtitles/pull/3",
+    "mvp": false
+  },
+  {
+    "repo": "media-transcoder",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/media-transcoder/pull/2",
+    "mvp": false
+  },
+  {
+    "repo": "media-tvshows",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "metadata-tmdb",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/metadata-tmdb/pull/3",
+    "mvp": true
+  },
+  {
+    "repo": "metrics-prometheus",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/12",
+    "mvp": false
+  },
+  {
+    "repo": "muxcore-module-starter",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/11",
+    "mvp": false
+  },
+  {
+    "repo": "notification-apprise",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/notification-apprise/pull/2",
+    "mvp": false
+  },
+  {
+    "repo": "notification-default",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/notification-default/pull/3",
+    "mvp": false
+  },
+  {
+    "repo": "publish-policy-default",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "ratelimit-tokenbucket",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/11",
+    "mvp": false
+  },
+  {
+    "repo": "request-media",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "scheduler-cron",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/13",
+    "mvp": false
+  },
+  {
+    "repo": "secrets-file",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "secrets-vault",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/secrets-vault/pull/9",
+    "mvp": true
+  },
+  {
+    "repo": "serialization-safe",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "spool-resolver-http",
+    "ok": false,
+    "err": "a pull request for branch \"fix/ghcr-lowercase-image\" into branch \"main\" already exists:\nhttps://github.com/Muxcore-Media/spool-resolver-http/pull/2\n"
+  },
+  {
+    "repo": "tracing-otlp",
+    "ok": false,
+    "err": "pull request create failed: GraphQL: A pull request already exists for Muxcore-Media:fix/ghcr-lowercase-image. (createPullRequest)\n"
+  },
+  {
+    "repo": "worker-pool-memory",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/10",
+    "mvp": false
+  },
+  {
+    "repo": "workflow-tapestry",
+    "ok": true,
+    "url": "https://github.com/Muxcore-Media/workflow-tapestry/pull/3",
+    "mvp": false
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "mod": "api-rest",
+    "status": "pushed"
+  },
+  {
+    "mod": "auth-local",
+    "status": "pushed"
+  },
+  {
+    "mod": "spool-resolver-http",
+    "status": "pushed"
+  },
+  {
+    "mod": "admin-ui",
+    "status": "pushed"
+  },
+  {
+    "mod": "worker-pool-memory",
+    "status": "pushed"
+  },
+  {
+    "mod": "muxcore-module-starter",
+    "status": "pushed"
+  },
+  {
+    "mod": "serialization-safe",
+    "status": "pushed"
+  },
+  {
+    "mod": "backup-local",
+    "status": "pushed"
+  },
+  {
+    "mod": "cache-redis",
+    "status": "pushed"
+  },
+  {
+    "mod": "circuitbreaker-simple",
+    "status": "pushed"
+  },
+  {
+    "mod": "data-redaction-pattern",
+    "status": "pushed"
+  },
+  {
+    "mod": "database-sqlite",
+    "status": "pushed"
+  },
+  {
+    "mod": "distributed-lock-sqlite",
+    "status": "pushed"
+  },
+  {
+    "mod": "feature-flags-file",
+    "status": "pushed"
+  },
+  {
+    "mod": "health-monitor",
+    "status": "pushed"
+  },
+  {
+    "mod": "input-validate-jsonschema",
+    "status": "pushed"
+  },
+  {
+    "mod": "logging-file",
+    "status": "pushed"
+  },
+  {
+    "mod": "metrics-prometheus",
+    "status": "pushed"
+  },
+  {
+    "mod": "notification-apprise",
+    "status": "pushed"
+  },
+  {
+    "mod": "notification-default",
+    "status": "pushed"
+  },
+  {
+    "mod": "ratelimit-tokenbucket",
+    "status": "pushed"
+  },
+  {
+    "mod": "scheduler-cron",
+    "status": "pushed"
+  },
+  {
+    "mod": "secrets-file",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-automation",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-scanner",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-movies",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-tvshows",
+    "status": "pushed"
+  },
+  {
+    "mod": "metadata-tmdb",
+    "status": "pushed"
+  },
+  {
+    "mod": "jellyfin",
+    "status": "pushed"
+  },
+  {
+    "mod": "indexer-piratebay",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-ffprobe",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-custom-formats",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-list-sync",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-rename",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-root-folders",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-subtitles",
+    "status": "pushed"
+  },
+  {
+    "mod": "media-transcoder",
+    "status": "pushed"
+  },
+  {
+    "mod": "downloader-native-torrent",
+    "status": "pushed"
+  },
+  {
+    "mod": "request-media",
+    "status": "pushed"
+  },
+  {
+    "mod": "auth-oidc",
+    "status": "pushed"
+  },
+  {
+    "mod": "cache-local",
+    "status": "pushed"
+  },
+  {
+    "mod": "call-policy-default",
+    "status": "pushed"
+  },
+  {
+    "mod": "config-watcher",
+    "status": "pushed"
+  },
+  {
+    "mod": "encryption-aesgcm",
+    "status": "pushed"
+  },
+  {
+    "mod": "executor-shell",
+    "status": "pushed"
+  },
+  {
+    "mod": "publish-policy-default",
+    "status": "pushed"
+  },
+  {
+    "mod": "secrets-vault",
+    "status": "pushed"
+  },
+  {
+    "mod": "tracing-otlp",
+    "status": "pushed"
+  },
+  {
+    "mod": "workflow-tapestry",
+    "status": "pushed"
+  }
+]

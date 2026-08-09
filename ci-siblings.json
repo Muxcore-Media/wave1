@@ -1,0 +1,607 @@
+{
+  "admin-ui": {
+    "siblings": [
+      "contracts-media-admin",
+      "core",
+      "media-custom-formats",
+      "media-root-folders",
+      "media-rename"
+    ],
+    "replacePaths": [
+      "../contracts-media-admin",
+      "../core",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts",
+      "../media-custom-formats",
+      "../media-root-folders",
+      "../media-rename"
+    ]
+  },
+  "api-rest": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts"
+    ]
+  },
+  "auth-local": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "auth-oidc": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "backup-local": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "cache-local": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "cache-redis": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "call-policy-default": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "circuitbreaker-simple": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "config-watcher": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "contracts-downloader": {
+    "siblings": [],
+    "replacePaths": []
+  },
+  "contracts-indexer": {
+    "siblings": [],
+    "replacePaths": []
+  },
+  "contracts-media-admin": {
+    "siblings": [],
+    "replacePaths": []
+  },
+  "contracts-notification": {
+    "siblings": [],
+    "replacePaths": []
+  },
+  "contracts-reconciler": {
+    "siblings": [],
+    "replacePaths": []
+  },
+  "core": {
+    "siblings": [],
+    "replacePaths": []
+  },
+  "data-redaction-pattern": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "database-sqlite": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "distributed-lock-sqlite": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "downloader-native-torrent": {
+    "siblings": [
+      "core",
+      "contracts-downloader"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts",
+      "../contracts-downloader"
+    ]
+  },
+  "encryption-aesgcm": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "executor-shell": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "feature-flags-file": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "health-monitor": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "indexer-piratebay": {
+    "siblings": [
+      "core",
+      "contracts-indexer"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts",
+      "../contracts-indexer"
+    ]
+  },
+  "input-validate-jsonschema": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "jellyfin": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts"
+    ]
+  },
+  "logging-file": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "media-automation": {
+    "siblings": [
+      "core",
+      "downloader-native-torrent",
+      "contracts-downloader",
+      "contracts-indexer",
+      "media-custom-formats",
+      "media-movies",
+      "media-scanner",
+      "media-tvshows"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts",
+      "../downloader-native-torrent",
+      "../contracts-downloader",
+      "../contracts-indexer",
+      "../media-custom-formats",
+      "../media-movies",
+      "../media-scanner",
+      "../media-tvshows"
+    ]
+  },
+  "media-custom-formats": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "media-ffprobe": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "media-list-sync": {
+    "siblings": [
+      "core",
+      "media-automation",
+      "media-movies",
+      "media-tvshows",
+      "metadata-tmdb",
+      "media-root-folders"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts",
+      "../core/sdk/go/client",
+      "../media-automation",
+      "../media-movies",
+      "../media-tvshows",
+      "../metadata-tmdb",
+      "../media-root-folders"
+    ]
+  },
+  "media-movies": {
+    "siblings": [
+      "core",
+      "contracts-media-admin",
+      "metadata-tmdb",
+      "media-root-folders"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts",
+      "../contracts-media-admin",
+      "../metadata-tmdb",
+      "../media-root-folders"
+    ]
+  },
+  "media-rename": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "media-root-folders": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "media-scanner": {
+    "siblings": [
+      "core",
+      "media-rename",
+      "media-ffprobe",
+      "media-subtitles",
+      "media-tvshows",
+      "media-root-folders"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts",
+      "../media-rename",
+      "../media-ffprobe",
+      "../media-subtitles",
+      "../media-tvshows",
+      "../media-root-folders"
+    ]
+  },
+  "media-subtitles": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "media-transcoder": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "media-tvshows": {
+    "siblings": [
+      "core",
+      "contracts-media-admin",
+      "metadata-tmdb",
+      "media-root-folders"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts",
+      "../contracts-media-admin",
+      "../metadata-tmdb",
+      "../media-root-folders"
+    ]
+  },
+  "metadata-tmdb": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "metrics-prometheus": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "muxcore-module-starter": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "muxcorectl": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/client",
+      "../core/pkg/contracts"
+    ]
+  },
+  "notification-apprise": {
+    "siblings": [
+      "contracts-notification",
+      "core"
+    ],
+    "replacePaths": [
+      "../contracts-notification",
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts",
+      "../core/sdk/go/client"
+    ]
+  },
+  "notification-default": {
+    "siblings": [
+      "contracts-notification",
+      "core"
+    ],
+    "replacePaths": [
+      "../contracts-notification",
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts",
+      "../core/sdk/go/client"
+    ]
+  },
+  "publish-policy-default": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "ratelimit-tokenbucket": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "request-media": {
+    "siblings": [
+      "core",
+      "media-movies",
+      "media-tvshows",
+      "metadata-tmdb"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts",
+      "../core/sdk/go/client",
+      "../media-movies",
+      "../media-tvshows",
+      "../metadata-tmdb"
+    ]
+  },
+  "scheduler-cron": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts",
+      "../core/sdk/go/client"
+    ]
+  },
+  "secrets-file": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "secrets-vault": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "serialization-safe": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "spool-resolver-http": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "tracing-otlp": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/pkg/contracts",
+      "../core/sdk/go/module"
+    ]
+  },
+  "worker-pool-memory": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/sdk/go/module",
+      "../core/pkg/contracts"
+    ]
+  },
+  "workflow-tapestry": {
+    "siblings": [
+      "core"
+    ],
+    "replacePaths": [
+      "../core",
+      "../core/pkg/contracts",
+      "../core/sdk/go/client",
+      "../core/sdk/go/module"
+    ]
+  }
+}

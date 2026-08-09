@@ -1,0 +1,128 @@
+[
+  {
+    "repo": "media-transcoder",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "media-subtitles",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "media-root-folders",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "media-rename",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "media-custom-formats",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "media-ffprobe",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "scheduler-cron",
+    "num": 11,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "worker-pool-memory",
+    "num": 8,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "auth-local",
+    "num": 14,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "input-validate-jsonschema",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "contracts-notification",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "contracts-media-admin",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "contracts-indexer",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "contracts-downloader",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "admin-ui",
+    "num": 6,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "publish-policy-default",
+    "num": 14,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "api-rest",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "executor-shell",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "backup-local",
+    "num": 10,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "call-policy-default",
+    "num": 14,
+    "status": "merged",
+    "out": ""
+  },
+  {
+    "repo": "auth-oidc",
+    "num": 1,
+    "status": "merged",
+    "out": ""
+  }
+]

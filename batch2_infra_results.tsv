@@ -1,0 +1,16 @@
+backup-local	https://github.com/Muxcore-Media/backup-local/pull/10	created
+cache-redis	https://github.com/Muxcore-Media/cache-redis/pull/11	created
+circuitbreaker-simple	https://github.com/Muxcore-Media/circuitbreaker-simple/pull/1	created
+data-redaction-pattern	https://github.com/Muxcore-Media/data-redaction-pattern/pull/1	created
+database-sqlite	https://github.com/Muxcore-Media/database-sqlite/pull/11	created
+distributed-lock-sqlite	https://github.com/Muxcore-Media/distributed-lock-sqlite/pull/1	created
+feature-flags-file	https://github.com/Muxcore-Media/feature-flags-file/pull/10	created
+health-monitor	https://github.com/Muxcore-Media/health-monitor/pull/10	created
+input-validate-jsonschema	https://github.com/Muxcore-Media/input-validate-jsonschema/pull/1	created
+logging-file	https://github.com/Muxcore-Media/logging-file/pull/1	created
+metrics-prometheus	https://github.com/Muxcore-Media/metrics-prometheus/pull/11	created
+notification-apprise	https://github.com/Muxcore-Media/notification-apprise/pull/1	created
+notification-default	https://github.com/Muxcore-Media/notification-default/pull/1	created
+ratelimit-tokenbucket	https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/10	created
+scheduler-cron	https://github.com/Muxcore-Media/scheduler-cron/pull/11	created
+secrets-file	https://github.com/Muxcore-Media/secrets-file/pull/10	created

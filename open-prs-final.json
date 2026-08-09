@@ -1,0 +1,1370 @@
+{
+  "open": [
+    {
+      "repo": "ratelimit-tokenbucket",
+      "number": 9,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "ratelimit-tokenbucket",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "ratelimit-tokenbucket",
+      "number": 7,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "metrics-prometheus",
+      "number": 10,
+      "title": "build(deps): bump the go-deps group with 2 updates",
+      "head": "dependabot/go_modules/go-deps-68ffc9dd5d",
+      "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "metrics-prometheus",
+      "number": 9,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "metrics-prometheus",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "request-media",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with media-ffprobe",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/request-media/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "muxcore-module-starter",
+      "number": 9,
+      "title": "Build(deps): Bump google.golang.org/grpc from 1.82.0 to 1.83.0 in the go-deps group across 1 directory",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "muxcore-module-starter",
+      "number": 8,
+      "title": "Build(deps): Bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "muxcore-module-starter",
+      "number": 7,
+      "title": "Build(deps): Bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 8,
+      "title": "fix: change default gRPC port to avoid collision with media-rename",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 6,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/6",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 5,
+      "title": "Bump the go-deps group with 10 updates",
+      "head": "dependabot/go_modules/go-deps-68645919aa",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/5",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 4,
+      "title": "chore(deps): bump docker/login-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/login-action-4",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/4",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 2,
+      "title": "chore(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 1,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/1",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 6,
+      "title": "chore(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/6",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 4,
+      "title": "chore(deps): bump docker/build-push-action from 6 to 7",
+      "head": "dependabot/github_actions/docker/build-push-action-7",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/4",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 3,
+      "title": "Bump google.golang.org/grpc from 1.81.1 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/3",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 2,
+      "title": "chore(deps): bump softprops/action-gh-release from 2 to 3",
+      "head": "dependabot/github_actions/softprops/action-gh-release-3",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 1,
+      "title": "chore(deps): bump actions/setup-go from 5 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/1",
+      "status": "red"
+    },
+    {
+      "repo": "health-monitor",
+      "number": 9,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/health-monitor/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "health-monitor",
+      "number": 8,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/health-monitor/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "health-monitor",
+      "number": 7,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/health-monitor/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "feature-flags-file",
+      "number": 9,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "feature-flags-file",
+      "number": 8,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "feature-flags-file",
+      "number": 7,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 11,
+      "title": "fix: change default gRPC port to avoid collision with media-rename",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 9,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 8,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 7,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 6,
+      "title": "Bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/6",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 5,
+      "title": "chore(deps): bump docker/login-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/login-action-4",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/5",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 4,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/4",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 3,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/3",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 1,
+      "title": "chore(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/1",
+      "status": "red"
+    },
+    {
+      "repo": "cache-redis",
+      "number": 10,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/cache-redis/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "cache-redis",
+      "number": 9,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/cache-redis/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "cache-redis",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/cache-redis/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "database-sqlite",
+      "number": 10,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/database-sqlite/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "database-sqlite",
+      "number": 9,
+      "title": "build(deps): bump the go-deps group with 2 updates",
+      "head": "dependabot/go_modules/go-deps-59fdd09f8c",
+      "url": "https://github.com/Muxcore-Media/database-sqlite/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "database-sqlite",
+      "number": 8,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/database-sqlite/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "media-tvshows",
+      "number": 12,
+      "title": "chore(deps): bump modernc.org/sqlite from 1.54.0 to 1.55.0",
+      "head": "dependabot/go_modules/modernc.org/sqlite-1.55.0",
+      "url": "https://github.com/Muxcore-Media/media-tvshows/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "media-tvshows",
+      "number": 11,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
+      "head": "dependabot/go_modules/google.golang.org/grpc-1.83.0",
+      "url": "https://github.com/Muxcore-Media/media-tvshows/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "tracing-otlp",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with cache-local",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/tracing-otlp/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "notification-default",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with media-tvshows",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/notification-default/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "metadata-tmdb",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with auth-oidc",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/metadata-tmdb/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "media-scanner",
+      "number": 12,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
+      "head": "dependabot/go_modules/google.golang.org/grpc-1.83.0",
+      "url": "https://github.com/Muxcore-Media/media-scanner/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "media-scanner",
+      "number": 11,
+      "title": "build(deps): bump modernc.org/sqlite from 1.54.0 to 1.55.0",
+      "head": "dependabot/go_modules/modernc.org/sqlite-1.55.0",
+      "url": "https://github.com/Muxcore-Media/media-scanner/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "media-scanner",
+      "number": 10,
+      "title": "build(deps): bump github.com/nwaples/rardecode/v2 from 2.2.5 to 2.3.0",
+      "head": "dependabot/go_modules/github.com/nwaples/rardecode/v2-2.3.0",
+      "url": "https://github.com/Muxcore-Media/media-scanner/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "media-automation",
+      "number": 12,
+      "title": "build(deps): bump modernc.org/sqlite from 1.54.0 to 1.55.0",
+      "head": "dependabot/go_modules/modernc.org/sqlite-1.55.0",
+      "url": "https://github.com/Muxcore-Media/media-automation/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "media-automation",
+      "number": 11,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
+      "head": "dependabot/go_modules/google.golang.org/grpc-1.83.0",
+      "url": "https://github.com/Muxcore-Media/media-automation/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "distributed-lock-sqlite",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with cache-local",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/distributed-lock-sqlite/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "core",
+      "number": 24,
+      "title": "build(deps): bump golang from `87a41d2` to `3aff665`",
+      "head": "dependabot/docker/golang-3aff6657219a4d9c14e27fb1d8976c49c29fddb70ba835014f477e1c70636647",
+      "url": "https://github.com/Muxcore-Media/core/pull/24",
+      "status": "unknown"
+    },
+    {
+      "repo": "core",
+      "number": 23,
+      "title": "build(deps): bump actions/setup-go from 5 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/23",
+      "status": "unknown"
+    },
+    {
+      "repo": "core",
+      "number": 22,
+      "title": "build(deps): bump the go-deps group across 1 directory with 2 updates",
+      "head": "dependabot/go_modules/go-deps-7889cc8029",
+      "url": "https://github.com/Muxcore-Media/core/pull/22",
+      "status": "unknown"
+    },
+    {
+      "repo": "core",
+      "number": 17,
+      "title": "build(deps): bump alpine from `5b10f43` to `28bd5fe`",
+      "head": "dependabot/docker/alpine-28bd5fe8b56d1bd048e5babf5b10710ebe0bae67db86916198a6eec434943f8b",
+      "url": "https://github.com/Muxcore-Media/core/pull/17",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 15,
+      "title": "build(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/15",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 14,
+      "title": "build(deps): bump dependabot/fetch-metadata from 2.3.0 to 3.1.0",
+      "head": "dependabot/github_actions/dependabot/fetch-metadata-3.1.0",
+      "url": "https://github.com/Muxcore-Media/core/pull/14",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 12,
+      "title": "build(deps): bump goreleaser/goreleaser-action from 6 to 7",
+      "head": "dependabot/github_actions/goreleaser/goreleaser-action-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/12",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 11,
+      "title": "build(deps): bump actions/upload-artifact from 4 to 7",
+      "head": "dependabot/github_actions/actions/upload-artifact-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/11",
+      "status": "green"
+    },
+    {
+      "repo": "contracts-reconciler",
+      "number": 2,
+      "title": "fix(ci): bump actions for Go 1.26",
+      "head": "fix/ci-sibling-checkout-go126",
+      "url": "https://github.com/Muxcore-Media/contracts-reconciler/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "scheduler-cron",
+      "number": 10,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "scheduler-cron",
+      "number": 9,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "scheduler-cron",
+      "number": 8,
+      "title": "chore(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "backup-local",
+      "number": 9,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/backup-local/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "backup-local",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/backup-local/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "backup-local",
+      "number": 7,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/backup-local/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 15,
+      "title": "fix: change default gRPC port to avoid collision with api-rest",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/15",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 12,
+      "title": "chore(deps): bump the go-deps group with 2 updates",
+      "head": "dependabot/go_modules/go-deps-59fdd09f8c",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 11,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 10,
+      "title": "chore(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "call-policy-default",
+      "number": 13,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/call-policy-default/pull/13",
+      "status": "red"
+    },
+    {
+      "repo": "call-policy-default",
+      "number": 12,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/call-policy-default/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "call-policy-default",
+      "number": 11,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/call-policy-default/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "publish-policy-default",
+      "number": 13,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/publish-policy-default/pull/13",
+      "status": "red"
+    },
+    {
+      "repo": "publish-policy-default",
+      "number": 12,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/publish-policy-default/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "publish-policy-default",
+      "number": 11,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/publish-policy-default/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 7,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-854c565c5f",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/7",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 6,
+      "title": "chore(deps): bump golang from 1.24-alpine to 1.26-alpine",
+      "head": "dependabot/docker/golang-1.26-alpine",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/6",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 5,
+      "title": "chore(deps): bump actions/setup-go from 5 to 6",
+      "head": "dependabot/github_actions/actions/setup-go-6",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/5",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 4,
+      "title": "chore(deps): bump softprops/action-gh-release from 2 to 3",
+      "head": "dependabot/github_actions/softprops/action-gh-release-3",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/4",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 3,
+      "title": "chore(deps): bump golangci/golangci-lint-action from 6 to 9",
+      "head": "dependabot/github_actions/golangci/golangci-lint-action-9",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/3",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 2,
+      "title": "chore(deps): bump docker/build-push-action from 6 to 7",
+      "head": "dependabot/github_actions/docker/build-push-action-7",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/2",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 1,
+      "title": "chore(deps): bump actions/checkout from 4 to 6",
+      "head": "dependabot/github_actions/actions/checkout-6",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/1",
+      "status": "nochecks"
+    }
+  ],
+  "ci": [
+    {
+      "repo": "contracts-reconciler",
+      "number": 2,
+      "title": "fix(ci): bump actions for Go 1.26",
+      "head": "fix/ci-sibling-checkout-go126",
+      "url": "https://github.com/Muxcore-Media/contracts-reconciler/pull/2",
+      "status": "red"
+    }
+  ],
+  "ports": [
+    {
+      "repo": "request-media",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with media-ffprobe",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/request-media/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 8,
+      "title": "fix: change default gRPC port to avoid collision with media-rename",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 11,
+      "title": "fix: change default gRPC port to avoid collision with media-rename",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "tracing-otlp",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with cache-local",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/tracing-otlp/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "notification-default",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with media-tvshows",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/notification-default/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "metadata-tmdb",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with auth-oidc",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/metadata-tmdb/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "distributed-lock-sqlite",
+      "number": 2,
+      "title": "fix: change default gRPC port to avoid collision with cache-local",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/distributed-lock-sqlite/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 15,
+      "title": "fix: change default gRPC port to avoid collision with api-rest",
+      "head": "fix/grpc-port-collision",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/15",
+      "status": "red"
+    }
+  ],
+  "other": [
+    {
+      "repo": "ratelimit-tokenbucket",
+      "number": 9,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "ratelimit-tokenbucket",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "ratelimit-tokenbucket",
+      "number": 7,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "metrics-prometheus",
+      "number": 10,
+      "title": "build(deps): bump the go-deps group with 2 updates",
+      "head": "dependabot/go_modules/go-deps-68ffc9dd5d",
+      "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "metrics-prometheus",
+      "number": 9,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "metrics-prometheus",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "muxcore-module-starter",
+      "number": 9,
+      "title": "Build(deps): Bump google.golang.org/grpc from 1.82.0 to 1.83.0 in the go-deps group across 1 directory",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "muxcore-module-starter",
+      "number": 8,
+      "title": "Build(deps): Bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "muxcore-module-starter",
+      "number": 7,
+      "title": "Build(deps): Bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 6,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/6",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 5,
+      "title": "Bump the go-deps group with 10 updates",
+      "head": "dependabot/go_modules/go-deps-68645919aa",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/5",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 4,
+      "title": "chore(deps): bump docker/login-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/login-action-4",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/4",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 2,
+      "title": "chore(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-vault",
+      "number": 1,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/secrets-vault/pull/1",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 6,
+      "title": "chore(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/6",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 4,
+      "title": "chore(deps): bump docker/build-push-action from 6 to 7",
+      "head": "dependabot/github_actions/docker/build-push-action-7",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/4",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 3,
+      "title": "Bump google.golang.org/grpc from 1.81.1 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/3",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 2,
+      "title": "chore(deps): bump softprops/action-gh-release from 2 to 3",
+      "head": "dependabot/github_actions/softprops/action-gh-release-3",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/2",
+      "status": "red"
+    },
+    {
+      "repo": "jellyfin",
+      "number": 1,
+      "title": "chore(deps): bump actions/setup-go from 5 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/jellyfin/pull/1",
+      "status": "red"
+    },
+    {
+      "repo": "health-monitor",
+      "number": 9,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/health-monitor/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "health-monitor",
+      "number": 8,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/health-monitor/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "health-monitor",
+      "number": 7,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/health-monitor/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "feature-flags-file",
+      "number": 9,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "feature-flags-file",
+      "number": 8,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "feature-flags-file",
+      "number": 7,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 9,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 8,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "secrets-file",
+      "number": 7,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/secrets-file/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 6,
+      "title": "Bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/6",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 5,
+      "title": "chore(deps): bump docker/login-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/login-action-4",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/5",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 4,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/4",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 3,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/3",
+      "status": "red"
+    },
+    {
+      "repo": "cache-local",
+      "number": 1,
+      "title": "chore(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/cache-local/pull/1",
+      "status": "red"
+    },
+    {
+      "repo": "cache-redis",
+      "number": 10,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/cache-redis/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "cache-redis",
+      "number": 9,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/cache-redis/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "cache-redis",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/cache-redis/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "database-sqlite",
+      "number": 10,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/database-sqlite/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "database-sqlite",
+      "number": 9,
+      "title": "build(deps): bump the go-deps group with 2 updates",
+      "head": "dependabot/go_modules/go-deps-59fdd09f8c",
+      "url": "https://github.com/Muxcore-Media/database-sqlite/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "database-sqlite",
+      "number": 8,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/database-sqlite/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "media-tvshows",
+      "number": 12,
+      "title": "chore(deps): bump modernc.org/sqlite from 1.54.0 to 1.55.0",
+      "head": "dependabot/go_modules/modernc.org/sqlite-1.55.0",
+      "url": "https://github.com/Muxcore-Media/media-tvshows/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "media-tvshows",
+      "number": 11,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
+      "head": "dependabot/go_modules/google.golang.org/grpc-1.83.0",
+      "url": "https://github.com/Muxcore-Media/media-tvshows/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "media-scanner",
+      "number": 12,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
+      "head": "dependabot/go_modules/google.golang.org/grpc-1.83.0",
+      "url": "https://github.com/Muxcore-Media/media-scanner/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "media-scanner",
+      "number": 11,
+      "title": "build(deps): bump modernc.org/sqlite from 1.54.0 to 1.55.0",
+      "head": "dependabot/go_modules/modernc.org/sqlite-1.55.0",
+      "url": "https://github.com/Muxcore-Media/media-scanner/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "media-scanner",
+      "number": 10,
+      "title": "build(deps): bump github.com/nwaples/rardecode/v2 from 2.2.5 to 2.3.0",
+      "head": "dependabot/go_modules/github.com/nwaples/rardecode/v2-2.3.0",
+      "url": "https://github.com/Muxcore-Media/media-scanner/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "media-automation",
+      "number": 12,
+      "title": "build(deps): bump modernc.org/sqlite from 1.54.0 to 1.55.0",
+      "head": "dependabot/go_modules/modernc.org/sqlite-1.55.0",
+      "url": "https://github.com/Muxcore-Media/media-automation/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "media-automation",
+      "number": 11,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0",
+      "head": "dependabot/go_modules/google.golang.org/grpc-1.83.0",
+      "url": "https://github.com/Muxcore-Media/media-automation/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "core",
+      "number": 24,
+      "title": "build(deps): bump golang from `87a41d2` to `3aff665`",
+      "head": "dependabot/docker/golang-3aff6657219a4d9c14e27fb1d8976c49c29fddb70ba835014f477e1c70636647",
+      "url": "https://github.com/Muxcore-Media/core/pull/24",
+      "status": "unknown"
+    },
+    {
+      "repo": "core",
+      "number": 23,
+      "title": "build(deps): bump actions/setup-go from 5 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/23",
+      "status": "unknown"
+    },
+    {
+      "repo": "core",
+      "number": 22,
+      "title": "build(deps): bump the go-deps group across 1 directory with 2 updates",
+      "head": "dependabot/go_modules/go-deps-7889cc8029",
+      "url": "https://github.com/Muxcore-Media/core/pull/22",
+      "status": "unknown"
+    },
+    {
+      "repo": "core",
+      "number": 17,
+      "title": "build(deps): bump alpine from `5b10f43` to `28bd5fe`",
+      "head": "dependabot/docker/alpine-28bd5fe8b56d1bd048e5babf5b10710ebe0bae67db86916198a6eec434943f8b",
+      "url": "https://github.com/Muxcore-Media/core/pull/17",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 15,
+      "title": "build(deps): bump actions/checkout from 4 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/15",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 14,
+      "title": "build(deps): bump dependabot/fetch-metadata from 2.3.0 to 3.1.0",
+      "head": "dependabot/github_actions/dependabot/fetch-metadata-3.1.0",
+      "url": "https://github.com/Muxcore-Media/core/pull/14",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 12,
+      "title": "build(deps): bump goreleaser/goreleaser-action from 6 to 7",
+      "head": "dependabot/github_actions/goreleaser/goreleaser-action-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/12",
+      "status": "green"
+    },
+    {
+      "repo": "core",
+      "number": 11,
+      "title": "build(deps): bump actions/upload-artifact from 4 to 7",
+      "head": "dependabot/github_actions/actions/upload-artifact-7",
+      "url": "https://github.com/Muxcore-Media/core/pull/11",
+      "status": "green"
+    },
+    {
+      "repo": "scheduler-cron",
+      "number": 10,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "scheduler-cron",
+      "number": 9,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "scheduler-cron",
+      "number": 8,
+      "title": "chore(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "backup-local",
+      "number": 9,
+      "title": "build(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-a329563655",
+      "url": "https://github.com/Muxcore-Media/backup-local/pull/9",
+      "status": "red"
+    },
+    {
+      "repo": "backup-local",
+      "number": 8,
+      "title": "build(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/backup-local/pull/8",
+      "status": "red"
+    },
+    {
+      "repo": "backup-local",
+      "number": 7,
+      "title": "build(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/backup-local/pull/7",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 12,
+      "title": "chore(deps): bump the go-deps group with 2 updates",
+      "head": "dependabot/go_modules/go-deps-59fdd09f8c",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 11,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "auth-local",
+      "number": 10,
+      "title": "chore(deps): bump actions/checkout from 6 to 7",
+      "head": "dependabot/github_actions/actions/checkout-7",
+      "url": "https://github.com/Muxcore-Media/auth-local/pull/10",
+      "status": "red"
+    },
+    {
+      "repo": "call-policy-default",
+      "number": 13,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/call-policy-default/pull/13",
+      "status": "red"
+    },
+    {
+      "repo": "call-policy-default",
+      "number": 12,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/call-policy-default/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "call-policy-default",
+      "number": 11,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/call-policy-default/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "publish-policy-default",
+      "number": 13,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-c93f3641e6",
+      "url": "https://github.com/Muxcore-Media/publish-policy-default/pull/13",
+      "status": "red"
+    },
+    {
+      "repo": "publish-policy-default",
+      "number": 12,
+      "title": "chore(deps): bump actions/setup-go from 6 to 7",
+      "head": "dependabot/github_actions/actions/setup-go-7",
+      "url": "https://github.com/Muxcore-Media/publish-policy-default/pull/12",
+      "status": "red"
+    },
+    {
+      "repo": "publish-policy-default",
+      "number": 11,
+      "title": "chore(deps): bump docker/setup-buildx-action from 3 to 4",
+      "head": "dependabot/github_actions/docker/setup-buildx-action-4",
+      "url": "https://github.com/Muxcore-Media/publish-policy-default/pull/11",
+      "status": "red"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 7,
+      "title": "chore(deps): bump google.golang.org/grpc from 1.81.1 to 1.82.0 in the go-deps group",
+      "head": "dependabot/go_modules/go-deps-854c565c5f",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/7",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 6,
+      "title": "chore(deps): bump golang from 1.24-alpine to 1.26-alpine",
+      "head": "dependabot/docker/golang-1.26-alpine",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/6",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 5,
+      "title": "chore(deps): bump actions/setup-go from 5 to 6",
+      "head": "dependabot/github_actions/actions/setup-go-6",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/5",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 4,
+      "title": "chore(deps): bump softprops/action-gh-release from 2 to 3",
+      "head": "dependabot/github_actions/softprops/action-gh-release-3",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/4",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 3,
+      "title": "chore(deps): bump golangci/golangci-lint-action from 6 to 9",
+      "head": "dependabot/github_actions/golangci/golangci-lint-action-9",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/3",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 2,
+      "title": "chore(deps): bump docker/build-push-action from 6 to 7",
+      "head": "dependabot/github_actions/docker/build-push-action-7",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/2",
+      "status": "nochecks"
+    },
+    {
+      "repo": "worker-pool-memory",
+      "number": 1,
+      "title": "chore(deps): bump actions/checkout from 4 to 6",
+      "head": "dependabot/github_actions/actions/checkout-6",
+      "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/1",
+      "status": "nochecks"
+    }
+  ]
+}

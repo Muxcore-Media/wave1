@@ -1,0 +1,443 @@
+[
+  {
+    "repo": "admin-ui",
+    "number": 7,
+    "url": "https://github.com/Muxcore-Media/admin-ui/pull/7",
+    "fail": false,
+    "pend": false,
+    "ok": true,
+    "mvp": true
+  },
+  {
+    "repo": "api-rest",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/api-rest/pull/2",
+    "fail": false,
+    "pend": false,
+    "ok": true,
+    "mvp": true
+  },
+  {
+    "repo": "auth-local",
+    "number": 16,
+    "url": "https://github.com/Muxcore-Media/auth-local/pull/16",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "auth-oidc",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/auth-oidc/pull/2",
+    "fail": false,
+    "pend": false,
+    "ok": true,
+    "mvp": false
+  },
+  {
+    "repo": "backup-local",
+    "number": 11,
+    "url": "https://github.com/Muxcore-Media/backup-local/pull/11",
+    "fail": false,
+    "pend": false,
+    "ok": true,
+    "mvp": false
+  },
+  {
+    "repo": "cache-local",
+    "number": 8,
+    "url": "https://github.com/Muxcore-Media/cache-local/pull/8",
+    "fail": false,
+    "pend": false,
+    "ok": true,
+    "mvp": false
+  },
+  {
+    "repo": "cache-redis",
+    "number": 12,
+    "url": "https://github.com/Muxcore-Media/cache-redis/pull/12",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "call-policy-default",
+    "number": 16,
+    "url": "https://github.com/Muxcore-Media/call-policy-default/pull/16",
+    "fail": false,
+    "pend": false,
+    "ok": true,
+    "mvp": true
+  },
+  {
+    "repo": "circuitbreaker-simple",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/circuitbreaker-simple/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "config-watcher",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/config-watcher/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "data-redaction-pattern",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/data-redaction-pattern/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "database-sqlite",
+    "number": 12,
+    "url": "https://github.com/Muxcore-Media/database-sqlite/pull/12",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "distributed-lock-sqlite",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/distributed-lock-sqlite/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "downloader-native-torrent",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/downloader-native-torrent/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "encryption-aesgcm",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/encryption-aesgcm/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "executor-shell",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/executor-shell/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "feature-flags-file",
+    "number": 11,
+    "url": "https://github.com/Muxcore-Media/feature-flags-file/pull/11",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "health-monitor",
+    "number": 11,
+    "url": "https://github.com/Muxcore-Media/health-monitor/pull/11",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "indexer-piratebay",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/indexer-piratebay/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "input-validate-jsonschema",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/input-validate-jsonschema/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "jellyfin",
+    "number": 8,
+    "url": "https://github.com/Muxcore-Media/jellyfin/pull/8",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "logging-file",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/logging-file/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "media-automation",
+    "number": 14,
+    "url": "https://github.com/Muxcore-Media/media-automation/pull/14",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "media-custom-formats",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/media-custom-formats/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "media-ffprobe",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/media-ffprobe/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "media-list-sync",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/media-list-sync/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "media-movies",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/media-movies/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "media-rename",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/media-rename/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "media-root-folders",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/media-root-folders/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "media-scanner",
+    "number": 15,
+    "url": "https://github.com/Muxcore-Media/media-scanner/pull/15",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "media-subtitles",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/media-subtitles/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "media-transcoder",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/media-transcoder/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "media-tvshows",
+    "number": 14,
+    "url": "https://github.com/Muxcore-Media/media-tvshows/pull/14",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "metadata-tmdb",
+    "number": 4,
+    "url": "https://github.com/Muxcore-Media/metadata-tmdb/pull/4",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "metrics-prometheus",
+    "number": 12,
+    "url": "https://github.com/Muxcore-Media/metrics-prometheus/pull/12",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "muxcore-module-starter",
+    "number": 11,
+    "url": "https://github.com/Muxcore-Media/muxcore-module-starter/pull/11",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "notification-apprise",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/notification-apprise/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "notification-default",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/notification-default/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "publish-policy-default",
+    "number": 16,
+    "url": "https://github.com/Muxcore-Media/publish-policy-default/pull/16",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "ratelimit-tokenbucket",
+    "number": 11,
+    "url": "https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/11",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "request-media",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/request-media/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "scheduler-cron",
+    "number": 13,
+    "url": "https://github.com/Muxcore-Media/scheduler-cron/pull/13",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "secrets-file",
+    "number": 12,
+    "url": "https://github.com/Muxcore-Media/secrets-file/pull/12",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "secrets-vault",
+    "number": 9,
+    "url": "https://github.com/Muxcore-Media/secrets-vault/pull/9",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": true
+  },
+  {
+    "repo": "serialization-safe",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/serialization-safe/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "spool-resolver-http",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/spool-resolver-http/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "tracing-otlp",
+    "number": 3,
+    "url": "https://github.com/Muxcore-Media/tracing-otlp/pull/3",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "worker-pool-memory",
+    "number": 10,
+    "url": "https://github.com/Muxcore-Media/worker-pool-memory/pull/10",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  },
+  {
+    "repo": "workflow-tapestry",
+    "number": 2,
+    "url": "https://github.com/Muxcore-Media/workflow-tapestry/pull/2",
+    "fail": false,
+    "pend": true,
+    "ok": false,
+    "mvp": false
+  }
+]

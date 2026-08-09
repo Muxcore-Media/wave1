@@ -1,0 +1,41 @@
+auth-local	fix: change default gRPC port to avoid collision with api-rest	https://github.com/Muxcore-Media/auth-local/pull/15
+cache-local	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/cache-local/pull/7
+cache-redis	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/cache-redis/pull/11
+circuitbreaker-simple	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/circuitbreaker-simple/pull/1
+config-watcher	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/config-watcher/pull/1
+contracts-reconciler	fix(ci): bump actions for Go 1.26	https://github.com/Muxcore-Media/contracts-reconciler/pull/2
+database-sqlite	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/database-sqlite/pull/11
+data-redaction-pattern	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/data-redaction-pattern/pull/1
+distributed-lock-sqlite	fix: change default gRPC port to avoid collision with cache-local	https://github.com/Muxcore-Media/distributed-lock-sqlite/pull/2
+distributed-lock-sqlite	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/distributed-lock-sqlite/pull/1
+downloader-native-torrent	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/downloader-native-torrent/pull/1
+encryption-aesgcm	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/encryption-aesgcm/pull/1
+feature-flags-file	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/feature-flags-file/pull/10
+health-monitor	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/health-monitor/pull/10
+indexer-piratebay	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/indexer-piratebay/pull/1
+jellyfin	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/jellyfin/pull/7
+logging-file	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/logging-file/pull/1
+media-automation	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/media-automation/pull/13
+media-list-sync	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/media-list-sync/pull/1
+media-movies	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/media-movies/pull/1
+media-scanner	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/media-scanner/pull/13
+media-tvshows	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/media-tvshows/pull/13
+metadata-tmdb	fix: change default gRPC port to avoid collision with auth-oidc	https://github.com/Muxcore-Media/metadata-tmdb/pull/2
+metadata-tmdb	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/metadata-tmdb/pull/1
+metrics-prometheus	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/metrics-prometheus/pull/11
+muxcore-module-starter	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/muxcore-module-starter/pull/10
+notification-apprise	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/notification-apprise/pull/1
+notification-default	fix: change default gRPC port to avoid collision with media-tvshows	https://github.com/Muxcore-Media/notification-default/pull/2
+notification-default	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/notification-default/pull/1
+ratelimit-tokenbucket	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/ratelimit-tokenbucket/pull/10
+request-media	fix: change default gRPC port to avoid collision with media-ffprobe	https://github.com/Muxcore-Media/request-media/pull/2
+request-media	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/request-media/pull/1
+secrets-file	fix: change default gRPC port to avoid collision with media-rename	https://github.com/Muxcore-Media/secrets-file/pull/11
+secrets-file	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/secrets-file/pull/10
+secrets-vault	fix: change default gRPC port to avoid collision with media-rename	https://github.com/Muxcore-Media/secrets-vault/pull/8
+secrets-vault	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/secrets-vault/pull/7
+serialization-safe	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/serialization-safe/pull/1
+spool-resolver-http	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/spool-resolver-http/pull/1
+tracing-otlp	fix: change default gRPC port to avoid collision with cache-local	https://github.com/Muxcore-Media/tracing-otlp/pull/2
+tracing-otlp	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/tracing-otlp/pull/1
+workflow-tapestry	fix(ci): sibling checkouts and golangci-lint v9 for Go 1.26	https://github.com/Muxcore-Media/workflow-tapestry/pull/1
