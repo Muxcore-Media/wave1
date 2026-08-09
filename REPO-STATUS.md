@@ -13,9 +13,11 @@ The acquire → library → admin/consumer UI path is closed on the host referen
 
 **Packaging (Waves 24–29):** [`core@v0.5.0`](https://github.com/Muxcore-Media/core/releases/tag/v0.5.0) (nested tags `pkg/contracts|sdk/go/module|sdk/go/client`); consumer SPA [`media-ui-app`](https://github.com/Muxcore-Media/media-ui-app); **all MVP Go modules pin published tags with no sibling `replace`** (Waves 25–28); sibling extras `media-list-sync`, `notification-apprise`, `workflow-tapestry` pinned (Wave 29); `_mvp` smoke helpers pin published tags (local `replace => ../core*` kept). Host smoke **PASS**.
 
+**Wave 31 (2026-08-09):** Org-wide core-only pin batch opened+merged for ~21 non-MVP modules (`wave1/pin-core-v050.sh`). Product: [media-automation#18](https://github.com/Muxcore-Media/media-automation/pull/18) GetQueue/GetHistory non-blocking; [admin-ui#13](https://github.com/Muxcore-Media/admin-ui/pull/13) automation timeouts; port defaults already `:9461`/`:9485` on main. Packaging: [core#34](https://github.com/Muxcore-Media/core/pull/34) GHCR `muxcored` GoReleaser dockers. **Operator gates:** restore GitHub Actions billing (jobs still queue); add `packages` write for local GHCR pushes; rotate TMDB + Proton WG via `mvp/tls/SECRET-ROTATION.md` (portal-issued credentials).
+
 **Wave 30 (2026-08-09):** Live Apibay + anacrolix on VPN (**PASS** — search/dispatch/history completed; ~2.4 GiB Fight Club tree under `_mvp/data/downloads`); consumer `media-ui-app` session APIs **PASS**; `core@v0.5.0` release assets uploaded (linux/darwin amd64/arm64 + checksums). GHCR image push still blocked (no Docker here; token lacks `packages` scope). [media-automation#17](https://github.com/Muxcore-Media/media-automation/pull/17) / tag `v0.1.1` — non-blocking Dispatch during large ImportPath.
 
-**Remaining packaging:** org-wide core-only pin batch (~20 non-MVP modules still using `replace => ../core`); restore GitHub Actions billing so Dependabot/CI can run without admin-merge; GHCR `muxcored` image; admin-ui `/automation` page hang under load.
+**Remaining packaging:** restore GitHub Actions billing (CI still queues); GHCR push needs Docker on runner + `packages` scope; operator TMDB/WG rotation via portal keys.
 
 **Polluted dumps archived:** `cache-memory`, `custom-scripts`, `media-jellyfin`, `muxcorectl`, `media-ui` (canonical SPA is `media-ui-app`). Tracked ELF binaries in those dumps stay frozen under archive. `cache.memory` capability lives in `cache-local`. `spool` is a JSON tag catalog (no `go.mod`).
 
