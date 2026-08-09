@@ -1,6 +1,6 @@
 # MuxCore (Muxcore-Media) Repository Status Report
 
-Generated: 2026-08-08 (Wave 30 update 2026-08-09)  
+Generated: 2026-08-08 (Wave 33 update 2026-08-09)  
 Scope: all cloned org repos under `/home/user/Projects/MuxCore` (**62**), excluding `claude-working-directory`.
 
 ## Executive summary
@@ -15,7 +15,9 @@ The acquire → library → admin/consumer UI path is closed on the host referen
 
 **Wave 31 (2026-08-09):** Org-wide core-only pin batch opened+merged for ~21 non-MVP modules (`wave1/pin-core-v050.sh`). Product: [media-automation#18](https://github.com/Muxcore-Media/media-automation/pull/18) GetQueue/GetHistory non-blocking; [admin-ui#13](https://github.com/Muxcore-Media/admin-ui/pull/13) automation timeouts; port defaults already `:9461`/`:9485` on main. Packaging: [core#34](https://github.com/Muxcore-Media/core/pull/34) GHCR `muxcored` GoReleaser dockers.
 
-**Wave 32 CI (2026-08-09):** Self-hosted gringotts runner green path: Test/Docker/Coverage; lint (`gocritic`) fixed; `x/text@v0.39.0`; Go `1.26.5`; fuzztime `10s` ([core#36](https://github.com/Muxcore-Media/core/pull/36)–[#39](https://github.com/Muxcore-Media/core/pull/39)). Single-runner queue: prefer tip-of-master CI over intermediate merges/Dependabot.
+**Wave 33 (2026-08-09):** Admin login was redirecting browsers to `http://127.0.0.1:9401` on gringotts. Fixed with public/internal auth split — [admin-ui#15](https://github.com/Muxcore-Media/admin-ui/pull/15), [mvp#8](https://github.com/Muxcore-Media/mvp/pull/8); redeploy required killing the stale `:8082` process. Verified: `https://admin.gringotts/login` → `https://auth.gringotts/...`. Media SPA already used public auth. Live modules have `MUXCORE_MESH_DIAL_LOCAL` dial helpers; archived dumps still raw `HttpAddr` (ignore).
+
+**Wave 32 CI (2026-08-09):** Self-hosted gringotts runner green path: Test/Docker/Coverage; lint (`gocritic`) fixed; `x/text@v0.39.0`; Go `1.26.5`; fuzztime `10s` ([core#36](https://github.com/Muxcore-Media/core/pull/36)–[#39](https://github.com/Muxcore-Media/core/pull/39)). Single-runner queue: prefer tip-of-master CI over intermediate merges/Dependabot. Tip-of-master CI often waits behind a ~12×60s fuzz Test job from an older SHA until that finishes.
 
 **Wave 32 (2026-08-09):** Self-hosted Actions runner on **gringotts** (nixpkgs `github-runner`, user systemd; docs `mvp/tls/GITHUB-RUNNER.md`). Billing spend **not** required. `v0.5.0` release binaries+sigs published; SBOM upload 404 leftover. Host dial: [admin-ui#14](https://github.com/Muxcore-Media/admin-ui/pull/14) remaining `normalizeDialAddr` call sites. **Operator gates:** optional `admin:org` for org-wide runners; linger for user systemd; TMDB/WG rotation skipped (dev).
 
